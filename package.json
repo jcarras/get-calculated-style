@@ -1,6 +1,6 @@
 {
   "name": "get-calculated-style",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gets the calculated style of a DOM element with IE support.",
   "main": "get-calculated-style.js",
   "author": "Joel Carras",
